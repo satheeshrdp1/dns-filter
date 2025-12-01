@@ -1,0 +1,4 @@
+# Example blocked domains (exact and suffix entries)
+ads.example.com
+doubleclick.net
+*.tracking.example
